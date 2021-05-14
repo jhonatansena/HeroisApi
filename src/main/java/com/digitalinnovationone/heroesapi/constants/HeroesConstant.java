@@ -1,4 +1,4 @@
-package com.digitalinnovationone.heroesapi.constans;
+package com.digitalinnovationone.heroesapi.constants;
 
 public class HeroesConstant {
     public static final String HEROES_ENDPOINT_LOCAL="/heroes";
